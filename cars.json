@@ -1,4 +1,4 @@
-"carlist": [
+const carlist= [
     {
         name: "Honda",
         category: "family car",
