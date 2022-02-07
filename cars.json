@@ -1,3 +1,4 @@
+"carlist": [
     {
         name: "Honda",
         category: "family car",
@@ -22,3 +23,4 @@
         comfort: "high",
         image: "img/van.png",
     }
+]
