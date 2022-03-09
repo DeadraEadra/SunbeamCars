@@ -24,6 +24,6 @@ const carlist= [
         suitcases: 4,
         comfort: "high",
         image: "img/van.png",
-        supplement: "0",
+        supplement: "105",
     }
 ]
