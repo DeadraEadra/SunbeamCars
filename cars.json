@@ -6,6 +6,7 @@ const carlist= [
         suitcases: 1,
         comfort: "low",
         image: "img/honda.png",
+        supplement: "0",
     },
     {
         name: "Safari Jeep",
@@ -14,6 +15,7 @@ const carlist= [
         suitcases: 3,
         comfort: "medium",
         image: "img/jeep.png",
+        supplement: "60",
     },
     {
         name: "Minivan",
@@ -22,5 +24,6 @@ const carlist= [
         suitcases: 4,
         comfort: "high",
         image: "img/van.png",
+        supplement: "0",
     }
 ]
